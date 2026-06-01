@@ -21,6 +21,14 @@ Each CSV represents one replicate plate or combined set of plates.
 Rows are strains (lab names are listed ["fRS] but common names corresponding to these can be seen in the Supplemental Tables, and columns are the drug concentrations in µg/mL. 
 Cell values are raw OD600 readings.
 
+ChrRi_FLZ = Data from Figure XXXX.
+ChrRi_POS = Data from Figure XXXX.
+ComboA_FLZ = Data from Figure XXXX.
+ComboA_POS = Data from Figure XXXX.
+Efflux_FLZ = Data from Figure XXXX.
+Individuals_FLZ = Data from Figure XXXX.
+Individuals_POS = Data from Figure XXXX.
+
 To analyze a new dataset, change only the single line in Cell 3 to reflect the sub-directory with your data in it:
 DATA_DIR = 'ComboA_FLZ'
 
