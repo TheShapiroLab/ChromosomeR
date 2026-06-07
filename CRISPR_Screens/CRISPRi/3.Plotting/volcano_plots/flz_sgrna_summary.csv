@@ -1,0 +1,3 @@
+Condition,Total significant,Enriched (total),Depleted (total),FLZ-unique enriched,FLZ-unique depleted,Shared enriched (YPD),Shared depleted (YPD),CI lower,CI upper
+Low FLZ,329,106,223,105,88,1,135,-2.88,1.0267
+High FLZ,281,72,209,72,43,0,166,-3.095,1.6368
