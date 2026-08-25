@@ -37,7 +37,6 @@ ChrR_Seq/
 │   └── edgeR_results/             # one .txt per comparison
 └── plotting/
     ├── pca_PERMANOVA.R
-    ├── pca_permanova_results/
     ├── chrR_box_plots/
     ├── volcano_plots/
     │   ├── ChrR_highlighted/
