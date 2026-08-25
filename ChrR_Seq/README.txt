@@ -1,6 +1,8 @@
 RNA-Seq Analysis: ChrR Trisomy and the Fluconazole Response in Candida albicans
 
-This notebook contains the RNA-seq analysis pipeline. Many heavy steps were not actually executed inside the notebook (the bash and R cells were copied into standalone .sh / .R files and submitted to SLURM on the ComputeCanada cluster). Cells that are meant to run in the notebook are marked, and vice versa. The notebook basically exists to keep the whole workflow in one readable narrative.
+This notebook contains the RNA-seq analysis pipeline. Many heavy steps were not actually executed inside the notebook 
+(the bash and R cells were copied into standalone .sh / .R files and submitted to SLURM on the ComputeCanada cluster). 
+Cells that are meant to run in the notebook are marked, and vice versa. The notebook basically exists to keep the whole workflow in one readable narrative.
 
 Experimental design
 
