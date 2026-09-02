@@ -39,8 +39,7 @@ ChrR_Seq/
     ├── pca_PERMANOVA.R
     ├── chrR_box_plots/
     ├── volcano_plots/
-    │   ├── ChrR_highlighted/
-    │   └── gene_coordinates/
-    └── interaction_checks/
+        ├── ChrR_highlighted/
+        └── gene_coordinates/
 
 Before running anything, replace --account=your-account and --mail-user=your@email in the SLURM headers.
