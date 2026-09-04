@@ -22,11 +22,6 @@ The notebook expects data to be organized in sub-directories relative to the wor
         strain: strain name or label
         medium: condition or growth medium label
 
-MMS = Data from Figure XXXX.
-H2O2 = Data from Figure XXXX.
-NaCl = Data from Figure XXXX.
-SORB = Data from Figure XXXX.
-
 To analyze a new dataset, change only the single line in Cell 5 to reflect the sub-directory with your data in it:
 EXPERIMENT_DIR = "MMS"
 
