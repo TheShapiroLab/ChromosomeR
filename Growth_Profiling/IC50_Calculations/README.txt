@@ -28,6 +28,8 @@ ComboA_POS = Data from the Combination Overexpression CRISPRa Strain Experiments
 Efflux_FLZ = Data from the Overexpression CRISPRa Strain Experiments in the Efflux-Deficient Background (FLZ).
 Individuals_FLZ = Data from the Individual Gene Modulation Follow-Up Experiments from the Screens (FLZ).
 Individuals_POS = Data from the Individual Gene Modulation Follow-Up Experiments from the Screens (POS).
+Clinical_Isolates_FLZ = Data from the CRISPRi Clinical Isolate Strain Experiments (FLZ).
+Clinical_Isolates_POS = Data from the CRISPRi Clinical Isolate Strain Experiments (POS).
 
 To analyze a new dataset, change only the single line in Cell 3 to reflect the sub-directory with your data in it:
 DATA_DIR = 'ComboA_FLZ'
