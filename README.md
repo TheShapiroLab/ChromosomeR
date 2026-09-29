@@ -1,3 +1,5 @@
+#Chromosome R
+
 ChromosomeR: Code and Data for the Chromosome R Project in Candida albicans (Gervais et al. 2026)
 
 This repository contains the analysis code (and processed data, where relevant) for the Chromosome R (ChrR) project,
