@@ -1,4 +1,4 @@
-#Chromosome R
+# Chromosome R
 
 ChromosomeR: Code and Data for the Chromosome R Project in Candida albicans (Gervais et al. 2026)
 
