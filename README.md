@@ -25,11 +25,12 @@ Growth_Profiling/
     in fluconazole, posaconazole, and other stress conditions. All growth profiling data that did not involve any analysis/code
     can be viewed in the supplementary information in the manuscript.
 
+Other Points:
 
 -Raw sequencing reads are available on SRA and are not included in this repository. 
+
 -Most of the sequencing analyses were run on the ComputeCanada cluster. Many of the heavy steps in those notebooks were
   copied into standalone .sh / .py / .R files and submitted to SLURM, so the notebooks just keep the whole workflow in one
   readable narrative.-
--Code is written in Python (Jupyter notebooks), with R used for some small parts of the RNA-seq analysis.
 
-This repository is released under the MIT License (see LICENSE).
+-Code is written in Python (Jupyter notebooks), with R used for some small parts of the RNA-seq analysis.
