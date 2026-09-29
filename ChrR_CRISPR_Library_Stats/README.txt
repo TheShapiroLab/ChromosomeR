@@ -26,10 +26,10 @@ counting_qc_stats.csv, fig_dropouts.png, fig_sgrna_cpm_distributions_by_library.
 Directory layout
 
 ChrR_CRISPR_Library_Stats/
-├── QC_and_Barcoding.ipynb
+├── Library_Validation.ipynb
 ├── ChrR_datasheet.csv
 ├── sgrna_list.csv
 ├── data/                    # raw fastq.gz (available on SRA)
-└── logs/, fastqc_outputs/, pear_output/, vsearch_trim/, vsearch_aggregate/   # created by the notebook
+└── logs/, fastqc_outputs/, pear_output/, vsearch_trim/, vsearch_aggregate/   # created by the notebook (not shown here)
 
 Before running anything, replace --account=your-account in the SLURM headers.
