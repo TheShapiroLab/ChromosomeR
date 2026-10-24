@@ -31,6 +31,6 @@ Other Points:
 
 -Most of the sequencing analyses were run on the ComputeCanada cluster. Many of the heavy steps in those notebooks were
   copied into standalone .sh / .py / .R files and submitted to SLURM, so the notebooks just keep the whole workflow in one
-  readable narrative.-
+  readable narrative.
 
 -Code is written in Python (Jupyter notebooks), with R used for some small parts of the RNA-seq analysis.
